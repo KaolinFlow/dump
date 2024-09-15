@@ -1,4 +1,4 @@
-import "./d.ms"
+import "./d"
 
 
 print "Executed from: " + path + " received " + d
